@@ -1,0 +1,5 @@
+在日常的开发中经常听人说到swagger，openApi，springfox这些名词，你是否时常感到一丝困惑，他们之间到底有什么关系？今天让我们一一探寻openApi Specification背后的生态体系和部分最佳实践。
+
+## 诞生
+
+openApi Specification也称为swagger Specification，最早诞生于swagger框架内部，是一套用来描述restful web服务的接口规范。后来成为一个独立的项目openApi Initiative，经由linux基金会监管。
